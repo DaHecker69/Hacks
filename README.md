@@ -1,2 +1,2 @@
-# hecker.
-i like to heck
+# Hacks
+Here is a list of hacks for blooket, kahoot, and quizlet.
